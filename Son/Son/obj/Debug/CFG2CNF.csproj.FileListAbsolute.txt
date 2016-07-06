@@ -1,0 +1,9 @@
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.Form1.resources
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.csproj.GenerateResource.Cache
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\bin\Debug\CFG2CNF.exe.config
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\bin\Debug\CFG2CNF.exe
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\bin\Debug\CFG2CNF.pdb
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.csprojResolveAssemblyReference.cache
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.Properties.Resources.resources
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.exe
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.pdb

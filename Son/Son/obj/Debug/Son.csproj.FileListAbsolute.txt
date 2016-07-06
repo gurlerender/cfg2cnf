@@ -1,0 +1,10 @@
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\bin\Debug\Son.exe.config
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\bin\Debug\Son.exe
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\bin\Debug\Son.pdb
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\obj\Debug\Son.Form1.resources
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\obj\Debug\Son.Properties.Resources.resources
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\obj\Debug\Son.csproj.GenerateResource.Cache
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\obj\Debug\Son.exe
+c:\users\otantik\documents\visual studio 2013\Projects\Son\Son\obj\Debug\Son.pdb
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\Son.csprojResolveAssemblyReference.cache
+C:\Users\Otantik\Documents\Visual Studio 2013\Projects\Son\Son\obj\Debug\CFG2CNF.Form1.resources
